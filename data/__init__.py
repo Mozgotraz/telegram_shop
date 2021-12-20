@@ -1,0 +1,1 @@
+from .config import wallet_qiwi, qiwi_wallet
